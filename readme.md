@@ -2,10 +2,10 @@
 
 ## Table of Contents
 
-- [ ] Batching and Scripting
-- [ ] Bash & Cron
-- [ ] Networking
-- [ ] Cross-platform
+- [x] Batching and Scripting
+- [x] Bash & Cron
+- [x] Networking
+- [x] Cross-platform
 - [ ] Eindopdracht: Adviseren & Configureren
 
 ## Research
